@@ -25,8 +25,20 @@ Since we're here, lets take a look at who gets the most **overall wins**.
 
 ## Roadies or Dirtbags?
 
-Who wins more?  Roadies or Dirtbags?
+Who wins more?  *Roadies* or *Dirtbags*?
 
 ![Wins By Discipline]
 (https://github.com/mbernico/bcf_2016_summary/blob/master/img/who_wins_more.png)
+
+It looks like the Dirtbags get the most wins, but neither can out win the Triathletes.
+
+## But what about those of us with advanced experience?
+
+Masters is tough, and those of us with **experience** are winning *slighly* less frequently.
+
+![Masters]
+(https://github.com/mbernico/bcf_2016_summary/blob/master/img/masters.png)
+
+## Well Done
+Great job on 2016, BCF Race Team!  Just wait until next year!
 
